@@ -3,7 +3,7 @@ ipykernel
 python-dotenv
 langchain_community
 pypdf
-beautifulsoup4
+beautifulsoup4 #used to scrap data
 requests
 arxiv
 pymupdf
