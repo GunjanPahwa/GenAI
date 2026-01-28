@@ -1,0 +1,39 @@
+1️⃣ REST API
+REST API is not a tool or software.
+It’s a set of rules / style for how two systems talk over the internet.
+
+What REST means:
+REST = Representational State Transfer
+
+In practice, it means:
+-You use HTTP
+-You work with resources (users, jobs, posts, etc.)
+-You use standard HTTP methods
+
+Common REST methods:
+1. GET	Read data
+2. POST	Create data
+3. PUT	Update all data	
+4. PATCH	Update partial data	
+5. DELETE	Remove data
+
+REST APIs usually:
+-Return JSON
+-Are stateless (server doesn’t remember past requests)
+
+2️⃣ FastAPI (the framework)
+
+FastAPI is a Python framework used to build REST APIs.
+REST = rules
+FastAPI = tool to implement those rules
+
+3️⃣ Postman (the testing tool)
+
+Postman is NOT an API.
+It’s a tool to test APIs.
+
+What Postman does:
+-Send GET / POST / PUT / DELETE requests
+-Add headers, params, body
+-See responses clearly
+-Debug backend without frontend

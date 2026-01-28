@@ -20,3 +20,7 @@ langchain-groq
 langchain-core
 langchain-classic
 streamlit
+fastapi
+uvicorn
+langserve
+sse_starlette
