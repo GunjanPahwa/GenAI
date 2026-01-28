@@ -19,3 +19,4 @@ groq
 langchain-groq
 langchain-core
 langchain-classic
+streamlit
